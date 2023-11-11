@@ -4,3 +4,7 @@ dash
 plotly
 polyline
 requests
+xlrd
+openpyxl
+pymongo
+dnspython
